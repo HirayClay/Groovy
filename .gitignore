@@ -1,0 +1,6 @@
+
+.idea/vcs.xml
+.idea/workspace.xml
+out/
+.gradle/
+src/closure/gradle/
